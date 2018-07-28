@@ -1,0 +1,15 @@
+baseURL = "https://hugo-architect-demo.netlify.com/"
+title = "Architect theme"
+theme = "hugo-architect"
+pygmentsCodeFences = "true"
+pygmentsUseClasses = "true"
+
+[params]
+ use_sass = "false"
+ show_downloads = "true"
+ description = "Architect is a Jekyll theme ported to Hugo."
+ gh_repo_owner = "hawkeye116477"
+ gh_repo_name = "architect"
+
+ [params.webmaster_verifications]
+  bing = "test"

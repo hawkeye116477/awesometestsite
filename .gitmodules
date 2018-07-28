@@ -1,0 +1,3 @@
+[submodule "themes/hugo-architect"]
+	path = themes/hugo-architect
+	url = https://github.com/hawkeye116477/hugo-architect.git

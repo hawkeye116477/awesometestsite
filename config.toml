@@ -7,7 +7,7 @@ pygmentsUseClasses = "true"
 [params]
  use_sass = "false"
  show_downloads = "true"
- description = "Architect is a Jekyll theme ported to Hugo."
+ description = "Architect is a port of Jekyll theme to Hugo."
  gh_repo_owner = "hawkeye116477"
  gh_repo_name = "hugo-architect-theme"
 
